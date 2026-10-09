@@ -12,6 +12,7 @@ in this repo, including its history, is public.
 | --- | --- | --- |
 | `w1/` | 12–17 Oct 2026 | P-01, P-02 carousels; P-03, P-04 Reel cards; TikTok `tt1`; highlight covers `hl-*` |
 | `w2/` | 19–25 Oct 2026 | P-05, P-06 carousels; R-02, R-03 Reel cards; TikTok `tt4`; Story cards `s2-*` |
+| `x1/` | 10–16 Oct 2026 | Value series 1: V-01…V-13 (myth-busts, rule cards), Reel V-04, Story questions `q-*` |
 
 Reels: `<week>/reels/reel-<id>.mp4`, 1080×1920 H.264 card cuts.
 
